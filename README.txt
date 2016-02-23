@@ -1,0 +1,1 @@
+Program transforms coordinates from PZ90 to WGS84, using GOST 51794-2001, also you can find interface to work with latitude and longitude.
